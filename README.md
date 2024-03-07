@@ -12,3 +12,4 @@ These are organized by topics as they appear on hackerrank.com.
 
 | Subdomain | Challenge | Solutions | Difficulty |
 | -- | -- | -- | -- |
+| Warmup | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution 1](algorithms/solve_me_first.py) | Easy |
