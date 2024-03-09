@@ -18,3 +18,4 @@ These are organized by topics as they appear on hackerrank.com.
 | Warmup | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | <ul><li>[Python Solution 1](algorithms/a_very_big_sum.py)</li></ul> | Easy |
 | Warmup | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | <ul><li>[Python Solution 1](algorithms/diagonal_difference.py)</li><li>[Javascript Solution 1](algorithms/diagonal_difference.js)</li></ul> | Easy |
 | Warmup | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | <ul><li>[Python Solution 1](algorithms/plus_minus.py)</li></ul> | Easy |
+| Warmup | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | <ul><li>[Python Solution 1](algorithms/staircase.py)</li></ul> | Easy |
